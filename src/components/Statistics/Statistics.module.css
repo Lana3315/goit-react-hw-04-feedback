@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+  padding-left: 0;
+}
+.positivePercentage {
+  display: flex;
+  justify-content: center;
+}
